@@ -1,5 +1,7 @@
 ### RageTileMap
 
+[![Join the chat at https://gitter.im/rakkarage/RageTileMap](https://badges.gitter.im/rakkarage/RageTileMap.svg)](https://gitter.im/rakkarage/RageTileMap?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 	+-+-+
 	|2|3|
 	+-+-+
